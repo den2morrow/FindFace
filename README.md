@@ -17,7 +17,7 @@ FindFace - это мобильное приложение, разработан�
 FindFace использует библиотеки Kivy и face_recognition. Для установки зависимостей, выполните следующие команды:
 
 ```bash
-python -m venv env
+python -m venv venv
 .\venv\Scripts\activate
 pip install kivy
 pip install face_recognition
